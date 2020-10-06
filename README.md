@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with full stack tech and resources to learn.
 - 💬 Ask me about git, Java Programming and coding problems, open source GitHub, HTML, CSS, Javascript and ReactJs.
 - 📫 How to reach me:
-<h4 align="right">
+<h4 align="center">
   💬 connect <a href="https://www.linkedin.com/in/abhishek-kumar-vikrant-995aa8140/"><img src="./assets/linkedin.png" alt="LinkedIn"  width="30" height="30" border="3">  </a>
   💬 connect  <a href="mailto: abhivikrant1@gmail.com"><img src="./assets/mail.png" alt="Email Me"  width="30" height="30" border="3"></a>
   💬 connect  <a href="https://github.com/AbhiVikrant"><img src="./assets/github.png" alt="GitHub"  width="30" height="30" border="3"></a>
