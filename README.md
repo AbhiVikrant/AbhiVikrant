@@ -1,7 +1,7 @@
 
 <img src="./assets/Abhishek.gif" alt="AbhishekVikrant"/>
 
-### Hi there !I'm Abhishek Kumar Vikrant 👋
+### Hi there !I'm **Abhishek Kumar Vikrant** 👋
 
 
 - 🔭 I’m currently working on my academic projects.
