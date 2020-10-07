@@ -55,5 +55,5 @@
 
 
 ![AbhiVikrant GitHub statistic](https://github-readme-stats.vercel.app/api?username=AbhiVikrant&show_icons=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiVikrant&layout=compact" alt="AbhiVikrant" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiVikrant&layout=compact" alt="AbhiVikrant" float="right" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AbhiVikrant" alt="AbhiVikrant Profile visits" /></p>
