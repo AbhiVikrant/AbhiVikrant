@@ -22,6 +22,9 @@
 - ⚡ Fun fact: BulletLover, TechLover and love to cook!!
 
 
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+
+
 **Languages and Tools:**
 
 ---
@@ -63,3 +66,4 @@
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AbhiVikrant" alt="AbhiVikrant Profile visits" /></p>
+
