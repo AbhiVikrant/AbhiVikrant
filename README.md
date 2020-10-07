@@ -55,6 +55,11 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhiVikrant&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p align="right">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiVikrant&layout=compact" alt="AbhiVikrant" /></p>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AbhiVikrant" alt="AbhiVikrant Profile visits" /></p>
