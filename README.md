@@ -21,7 +21,12 @@
 - 😄 Pronouns: You can call me *Abhishek* or *Vikrant* or *Abhi*.
 - ⚡ Fun fact: BulletLover, TechLover and love to cook!!
 
+
 **Languages and Tools:**
+
+---
+
+
 <div align= "center" >
 <code><img height="20" src="./assets/java.png"></code>
 <code><img height="20" src="./assets/html.png"></code>
@@ -31,3 +36,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </div>
 
+![AbhiVikrant GitHub statistic](https://github-readme-stats.vercel.app/api?username=AbhiVikrant&show_icons=true)
