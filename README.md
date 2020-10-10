@@ -66,8 +66,9 @@
 
 
 <p align="center">
-<a href=<a href="https://www.buymeacoffee.com/AbhiVikrant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee"></a>
+   <a href="https://www.buymeacoffee.com/AbhiVikrant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
+
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AbhiVikrant" alt="AbhiVikrant Profile visits" /></p>
