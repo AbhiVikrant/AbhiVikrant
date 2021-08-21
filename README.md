@@ -6,7 +6,7 @@
 ### Hi there !I'm **Abhishek Kumar Vikrant** 👋
 
 
-- 🔭 I’m currently working on my academic projects.
+- 🔭 I’m currently working at Tata Consultancy Services.
 - 🌱 I’m currently learning full stack tech using MERN.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with full stack tech and resources to learn.
