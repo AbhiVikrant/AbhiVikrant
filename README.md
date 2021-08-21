@@ -26,6 +26,7 @@
 
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
 
+[![AbhiVikrant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhivikrant&theme=xcode)](https://git.io/abhivikrant)
 
 **Languages and Tools:**
 
